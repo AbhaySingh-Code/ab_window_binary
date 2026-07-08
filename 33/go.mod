@@ -1,4 +1,4 @@
-module discovery
+module 33
 
 go 1.26.4
 
